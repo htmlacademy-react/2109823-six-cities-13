@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Rus Minin](https://up.htmlacademy.ru/react/13/user/2109823).
-* Наставник: `Неизвестно`.
+* Наставник: `https://htmlacademy.ru/profile/id1107505`.
 
 ---
 
